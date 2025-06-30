@@ -1,0 +1,9 @@
+task: Plan a Hello World Application
+context: Define the steps required to build a minimal Hello World API service without generating code
+pipeline:
+  - agent: Planner
+    input: Provide a step-by-step plan to build a simple API that returns "Hello, World!" using Python and Flask
+  - agent: UIPlanner
+    input: Describe what a minimal UI might look like to trigger this Hello World response
+  - agent: Summary
+    input: Summarize the planned application, its components, and what remains to be implemented

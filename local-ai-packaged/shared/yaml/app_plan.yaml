@@ -1,0 +1,13 @@
+task: Plan and build a modular AI-based application
+context: General technical architecture and component orchestration
+pipeline:
+  - agent: Planner
+    input: Break the task into 4–6 logical development phases
+  - agent: UIPlanner
+    input: Design a simple interface that supports the main user interaction
+  - agent: PromptWriter
+    input: Write a task-specific prompt template for any LLM component
+  - agent: CodeCompiler
+    input: Scaffold a basic backend route or function related to this task
+  - agent: Summary
+    input: Summarize what was planned and what steps are left

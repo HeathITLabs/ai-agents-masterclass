@@ -1,0 +1,121 @@
+Pulp Adventure Framework 6.0
+Introduction
+This framework is for crafting pulp adventure stories in genres like sword and sorcery, weird science, and sci-fi adventures. It guides you step-by-step through generating a cohesive, action-packed story of 5000 to 8000 words. Self-checks are integrated into each step to refine outputs and maintain continuity.
+
+Part 1: Setup
+1. Character Introduction
+Prompt:
+"Write an opening scene (500-800 words) introducing the protagonist in an action or dialogue sequence. Highlight their core traits through their actions and thoughts. Establish the setting with vivid details to set the tone and genre."
+
+Self-Checks:
+
+Does the protagonist’s introduction reveal their personality and motivations clearly?
+Is the setting described in a way that immerses the reader and establishes the story’s genre?
+Does the scene start with action or dialogue to immediately engage the audience?
+2. Protagonist’s Goal
+Prompt:
+"Describe the protagonist’s main goal in a scene (200-400 words) that conveys their motivations and the stakes involved. Use internal monologue or dialogue to emphasize their determination."
+
+Self-Checks:
+
+Does the goal logically connect to the traits and backstory established earlier?
+Are the stakes compelling and clearly tied to the protagonist’s motivations?
+Does the scene leave room for further challenges and tension?
+3. Antagonist’s Introduction
+Prompt:
+"Introduce the antagonist (400-600 words) in a scene that showcases their cunning, power, and motivations. Include hints about their ultimate goal and how it opposes the protagonist."
+
+Self-Checks:
+
+Is the antagonist’s personality distinct and memorable?
+Does their goal directly oppose or threaten the protagonist’s objective?
+Are their methods and motivations believable and genre-appropriate?
+4. Immediate Conflict
+Prompt:
+"Write a scene (600-800 words) where the protagonist and antagonist cross paths for the first time, initiating the central conflict. Focus on building tension and setting up future complications."
+
+Self-Checks:
+
+Does the conflict logically arise from the goals and personalities introduced earlier?
+Is the tension high, and are stakes clearly defined?
+Does the scene plant seeds for escalating challenges?
+Part 2: Escalating Action
+5. Scene 1: Confronting Fears
+Prompt:
+"Write a scene (400-600 words) where the protagonist faces a personal fear or doubt that challenges their resolve. Use this moment to add depth to their character."
+
+Self-Checks:
+
+Is the fear or doubt consistent with the protagonist’s traits and backstory?
+Does this scene deepen the audience’s emotional connection to the protagonist?
+Is the conflict resolved or deferred in a way that drives the plot forward?
+6. Scene 2: Unexpected Complications
+Prompt:
+"Introduce an unexpected complication (300-500 words) that significantly hinders the protagonist’s progress. This could be an ambush, betrayal, or a sudden environmental hazard."
+
+Self-Checks:
+
+Does the complication logically fit the setting and prior events?
+Does it escalate the stakes and create new challenges for the protagonist?
+Is the pacing maintained, with tension appropriate for the genre?
+7. Scene 3: Gathering Allies
+Prompt:
+"Describe a scene (500-700 words) where the protagonist seeks out allies or resources. Show how these allies contribute to their quest and interact with the protagonist."
+
+Self-Checks:
+
+Are the allies or resources relevant to the protagonist’s goal?
+Do the interactions reveal new dimensions of the protagonist’s character?
+Does the scene contribute to building momentum toward the climax?
+Part 3: Deepening Complications
+8. Unexpected Allies/Enemies
+Prompt:
+"Write a scene (400-600 words) introducing a new character who either aids or hinders the protagonist. Include subtle hints about their true motives."
+
+Self-Checks:
+
+Is the character’s role (ally or enemy) clear and impactful?
+Are their motives consistent with prior events or foreshadowing?
+Does their introduction add complexity to the plot?
+9. Hero’s Dilemma
+Prompt:
+"Write a scene (500-700 words) where the protagonist faces a difficult moral or strategic choice. Highlight their internal conflict and its impact on the story."
+
+Self-Checks:
+
+Does the dilemma connect meaningfully to the protagonist’s goals and fears?
+Is the choice impactful, with clear consequences for the story?
+Does this scene deepen the protagonist’s character development?
+10. Plot Twist
+Prompt:
+"Write a plot twist (300-500 words) that alters the story’s trajectory in a surprising yet logical way. Use foreshadowing to make it feel earned."
+
+Self-Checks:
+
+Is the twist consistent with earlier hints or events?
+Does it escalate tension or shift the protagonist’s strategy?
+Does the twist maintain the story’s momentum and coherence?
+Part 4: Climactic Confrontations
+11. Final Showdown
+Prompt:
+"Write the climactic confrontation (800-1200 words) between the protagonist and antagonist. Show how the protagonist’s growth and resolve help them face this ultimate challenge."
+
+Self-Checks:
+
+Does the protagonist’s growth and decisions reflect their journey throughout the story?
+Are the stakes at their highest, and is the resolution satisfying?
+Does the antagonist’s defeat (or victory) feel earned and logical?
+12. Resolution of Main Conflict
+Prompt:
+"Resolve the main conflict (500-800 words) by tying up key plot threads and answering major questions. Reflect on the protagonist’s journey and hint at future adventures if appropriate."
+
+Self-Checks:
+
+Are all major plot threads resolved or set up for future stories?
+Does the resolution provide emotional and narrative closure?
+Is the protagonist’s arc complete and satisfying?
+Final Workflow
+Generate Each Section: Use the prompts and self-checks to create scenes one at a time.
+Review and Refine: After each scene, apply the self-checks to improve the output.
+Assemble the Story: Combine all sections into a cohesive draft.
+Final Review: Check transitions, pacing, and coherence for a polished story.
